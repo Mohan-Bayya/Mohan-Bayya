@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Mohan-Bayya/Mohan-Bayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cutting-edge research in synthetic data generation using Generative Adversarial Networks (GANs) for fault prediction.
-- 🌱 I’m currently learning advanced techniques in machine learning and data visualization, including deep learning and interactive dashboards.
+- 🌱 I’m currently learning advanced techniques in machine learning and data visualization, including storytelling, new domains, and interactive dashboards.
 - 👯 I’m looking to collaborate on innovative projects involving machine learning, data science, and predictive analytics.
 - 💬 Ask me about data science projects, machine learning algorithms, or how to get started with Python and SQL.
 - 📫 How to reach me: [mohandattabayya@gmail.com](mailto:mohandattabayya@gmail.com)
-- 😄 Pronouns: He/Him
 
 # Welcome to Mohan's Data Science Lab! 🔍📊
 
