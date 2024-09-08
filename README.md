@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced machine learning and data visualization techniques, focusing on data storytelling, new domains, and creating interactive dashboards for engaging data presentation..
 - 👯 I’m looking to collaborate on innovative projects involving machine learning, data science, and predictive analytics.
 - 💬 Ask me about data science projects, machine learning algorithms, or how to start with Python and SQL.
-- 📫 How to reach me: [mohandattabayya@gmail.com](mailto:mohandattabayya@gmail.com) | [Linkedin](https://www.linkedin.com/in/mohan-datta-bayya/)
+- 📫 How to reach me: [b18mohan@gmail.com](mailto:b18mohan@gmail.com) | [Linkedin](https://www.linkedin.com/in/mohan-datta-bayya/)
 
 # Welcome to Mohan's Data Science Lab! 🔍📊
 
