@@ -54,6 +54,9 @@ Unlock insights from eye movements for early dementia detection! 👁️🧠
 - **Description:** Analyzed eye-tracking data to identify signs of dementia, focusing on metrics like saccade duration and pupil diameter.  
 - **Explore It Here:** [Detection-of-Dementia-using-Eye-Tracking-Technology](https://github.com/Mohan-Bayya/Detection-of-Dementia-using-Eye-Tracking-Technology)
 
+##### Click [Here](https://github.com/Mohan-Bayya/Mohan_Portfolio_Projects) for More Projects.
+##### Click [Here](https://www.novypro.com/profile_about/mohan-datta-bayya) for BI dashboards.
+
 ### 🔧 **Technical Skills**
 
 - **Languages:** Python, C++
