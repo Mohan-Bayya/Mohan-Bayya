@@ -59,7 +59,7 @@ Unlock insights from eye movements for early dementia detection! 👁️🧠
 
 ### 🔧 **Technical Skills**
 
-- **Languages:** Python, C++
+- **Languages:** Python
 - **Data Tools:** Excel, Power BI, SQL
 - **Libraries:** NumPy, Pandas, Seaborn, Matplotlib
 - **Visualization:** Power BI
